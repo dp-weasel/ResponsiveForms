@@ -1,1 +1,4 @@
-console.log("hola");
+function show()
+{
+    document.getElementById("submenu").style.display="block";
+}
